@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[School's website](./ensae.fr).
+[School's website](./another-page).
 
 
 # Hi !
